@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @berezucc
+- 👋 Hi, I’m Nikita Berezyuk
 - 👀 I’m interested in abstract ideas like success and money and power
-- 🌱 I’m currently learning computer science at Ryerson University
+- 🌱 I’m currently studying computer science at Ryerson University
 - 📫 How to reach me 
 ### **Email:** nikita@cntechmodel.biz **IG:** [@nikita.berezyuk](https://www.instagram.com/nikita.berezyuk/) **Twitter:** [@berezucc](https://twitter.com/berezucc)
 
