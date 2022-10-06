@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nikita@cntechmodel.biz**
 
-- 📄 Know about my experiences [http://bitly.ws/v7QB](http://bitly.ws/v7QB)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WyHqnHKqt7vBy3-_lyS5jgqmm5crbEiP/view?usp=sharing)
 
 - ⚡ Fun fact **My goal is to bench 225 by the end of 2022.**
 
