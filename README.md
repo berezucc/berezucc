@@ -8,6 +8,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c2JM61nVcvup36yD5DmLsQ73tm1cFppJ/view?usp=sharing)
 
 - ⚡ Fun fact **My goal is to bench 275 by the end of 2023.**
+- 😭 Update Nov 2, 2023: Torn Rotator Cuff
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
