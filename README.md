@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nikita@cntechmodel.biz**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/126XKi1XiC9Ow4EBpLYdg5qF0EUMNlsXO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1az590XbjvPWQZNtT2EZ2mWIONOVy-0Ou/view?usp=sharing)
 
 - ⚡ Fun fact **My goal is to bench 275 by the end of 2023.**
 - 😭 Update Nov 2, 2023: Torn Rotator Cuff
