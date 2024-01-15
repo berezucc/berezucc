@@ -7,8 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1az590XbjvPWQZNtT2EZ2mWIONOVy-0Ou/view?usp=sharing)
 
-- ⚡ Fun fact **My goal is to bench 275 by the end of 2023.**
-- 😭 Update Nov 2, 2023: Torn Rotator Cuff
+- ⚡ Fun fact **My goal is to solve 200 leetcode problems in 2024.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
