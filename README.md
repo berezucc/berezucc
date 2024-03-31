@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **nikita@cntechmodel.biz**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VpWWjFv3R32toDKH0Tuvlbyms4nqXCsc/view?usp=sharing)
-
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1m-_P8H7lXzAZ44RuGj5VwBhlXk32veTN/view?usp=sharing)
 - ⚡ Fun fact **My goal is to solve 200 leetcode problems in 2024.**
 
 <h3 align="left">Connect with me:</h3>
