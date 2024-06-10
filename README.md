@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berezucc&label=Profile%20views&color=0e75b6&style=flat" alt="berezucc" /> </p>
 
-- 📫 How to reach me **nikita@cntechmodel.biz**
+- 📫 How to reach me **nikita.s.berezyuk@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWQv1CjCiAzQU8nsur0stp_O7GsufEOV/view?usp=sharing)
 - ⚡ Fun fact **My goal is to solve +200 leetcode problems in 2024.**
