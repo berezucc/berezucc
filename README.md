@@ -5,13 +5,11 @@
 
 - 📫 How to reach me **nikita.s.berezyuk@gmail.com**
 
-- ⚡ Fun fact **My goal is to solve +200 leetcode problems in 2024.**
+- ⚡ Fun fact **My goal is to solve +200 leetcode problems in 2024. ([My Profile](https://leetcode.com/u/user5921pg/))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikita-berezyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikita-berezyuk" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berezucc&show_icons=true&locale=en&layout=compact" alt="berezucc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berezucc&show_icons=true&locale=en" alt="berezucc" /></p>
