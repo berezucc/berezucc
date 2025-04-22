@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nikita.s.berezyuk@gmail.com**
 
-- ⚡ Fun fact **My goal is to solve +200 leetcode problems in 2024. ([My Profile](https://leetcode.com/u/user5921pg/))**
+- ⚡ Fun fact **My goal is to solve another 200 leetcode problems in 2025. ([My Profile](https://leetcode.com/u/user5921pg/))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
