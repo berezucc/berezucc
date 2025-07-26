@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Berezyuk</h1>
-<h3 align="center">I’m currently studying computer science at Ryerson University</h3>
-
+<!-- <h3 align="center">I’m currently studying computer science at Ryerson University</h3>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berezucc&label=Profile%20views&color=0e75b6&style=flat" alt="berezucc" /> </p>
 
 - 📫 How to reach me **nikita.s.berezyuk@gmail.com**
