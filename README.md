@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nikita.s.berezyuk@gmail.com**
 
-- ⚡ Focusing on: **MCP tools, Exotic Options Pricing, C++.**
+- ⚡ Focusing on: **Distributed Multi-Agent Systems, HPC, Electronic Trading, Market Price Discovery.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
