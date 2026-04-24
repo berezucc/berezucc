@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=berezucc&label=views&color=0e75b6&style=flat" />
 </p>
 
-- 📫 nikita.s.berezyuk@gmail.com
+📫 nikita.s.berezyuk@gmail.com
 
 <p>
   <a href="https://linkedin.com/in/nikita-berezyuk" target="_blank">
