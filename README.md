@@ -1,7 +1,5 @@
-<h1 align="center">nikita berezyuk</h1>
-
 <p align="center">
-  distributed systems · learning systems · electronic trading
+  distributed compute · learning systems · electronic trading
 </p>
 
 <p align="left">
